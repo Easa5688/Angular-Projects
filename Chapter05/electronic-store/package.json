@@ -27,7 +27,7 @@
     "arr-flatten": "2.0.1",
     "array-unique": "1.0.1",
     "assign-symbols": "3.0.1",
-    "backslash": "0.2.1"
+    "backslash": "0.2.1",
     "hammerjs": "^2.0.8",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
