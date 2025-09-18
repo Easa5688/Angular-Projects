@@ -24,6 +24,11 @@
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.0"
+     "arr-diff": "5.0.1",
+    "arr-flatten": "2.0.1",
+    "array-unique": "1.0.1",
+    "assign-symbols": "3.0.1",
+    "backslash": "0.2.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.800.0",
