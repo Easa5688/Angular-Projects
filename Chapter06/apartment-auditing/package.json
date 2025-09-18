@@ -32,6 +32,11 @@
     "firebase": "^6.1.0",
     "rxjs": "~6.3.3",
     "zone.js": "~0.9.1"
+     "arr-diff": "5.0.1",
+    "arr-flatten": "2.0.1",
+    "array-unique": "1.0.1",
+    "assign-symbols": "3.0.1",
+    "backslash": "0.2.1"
   },
   "devDependencies": {
     "@angular-devkit/architect": "~0.800.0",
@@ -59,6 +64,11 @@
     "ts-node": "~8.2.0",
     "tslint": "~5.16.0",
     "typescript": "~3.4.0"
+     "arr-diff": "5.0.1",
+    "arr-flatten": "2.0.1",
+    "array-unique": "1.0.1",
+    "assign-symbols": "3.0.1",
+    "backslash": "0.2.1"
   },
   "description": "An Ionic project"
 }
